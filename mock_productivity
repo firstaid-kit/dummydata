@@ -1,0 +1,70 @@
+[
+  {
+    "Worker ID": "W001",
+    "Subcontractor": "TunnelPro",
+    "Role": "Electrician",
+    "Shift": "Night",
+    "Date": "2025-07-14",
+    "Minutes in Productive Zones": 328,
+    "Minutes in Non-Productive Zones": 305,
+    "Minutes on Break": 87
+  },
+  {
+    "Worker ID": "W002",
+    "Subcontractor": "DrillCore Pty Ltd",
+    "Role": "Electrician",
+    "Shift": "Night",
+    "Date": "2025-07-12",
+    "Minutes in Productive Zones": 326,
+    "Minutes in Non-Productive Zones": 310,
+    "Minutes on Break": 84
+  },
+  {
+    "Worker ID": "W003",
+    "Subcontractor": "RockSafe Group",
+    "Role": "Operator",
+    "Shift": "Day",
+    "Date": "2025-07-13",
+    "Minutes in Productive Zones": 365,
+    "Minutes in Non-Productive Zones": 266,
+    "Minutes on Break": 89
+  },
+  {
+    "Worker ID": "W004",
+    "Subcontractor": "DrillCore Pty Ltd",
+    "Role": "Electrician",
+    "Shift": "Day",
+    "Date": "2025-07-16",
+    "Minutes in Productive Zones": 416,
+    "Minutes in Non-Productive Zones": 266,
+    "Minutes on Break": 38
+  },
+  {
+    "Worker ID": "W005",
+    "Subcontractor": "DrillCore Pty Ltd",
+    "Role": "Electrician",
+    "Shift": "Night",
+    "Date": "2025-07-14",
+    "Minutes in Productive Zones": 326,
+    "Minutes in Non-Productive Zones": 361,
+    "Minutes on Break": 33
+  },
+  {
+    "Worker ID": "W006",
+    "Subcontractor": "RockSafe Group",
+    "Role": "Mechanic",
+    "Shift": "Day",
+    "Date": "2025-07-12",
+    "Minutes in Productive Zones": 337,
+    "Minutes in Non-Productive Zones": 313,
+    "Minutes on Break": 70
+  },
+  {
+    "Worker ID": "W007",
+    "Subcontractor": "DrillCore Pty Ltd",
+    "Role": "Mechanic",
+    "Shift": "Day",
+    "Date": "2025-07-12",
+    "Minutes in Productive Zones": 320,
+    "Minutes in Non-Productive Zones": 317,
+    "Minutes
